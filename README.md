@@ -1,2 +1,2 @@
-# rust-svelte-app
-Just a proof of concept test app in rust and svelte
+# rust-on-nails-app
+Just a proof of concept test app in rust on nails
